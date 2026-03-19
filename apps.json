@@ -1,0 +1,50 @@
+{
+  "$schema": "https://wvw.dev/apps.schema.json",
+  "store": {
+    "name": "mesto.ai",
+    "developer": "Mesut GÖK",
+    "tagline": "AI-powered developer tools",
+    "url": "https://github.com/mesto-ai",
+    "github": "mesto-ai"
+  },
+  "categories": [
+    {
+      "id": "utilities",
+      "name": "Utilities"
+    },
+    {
+      "id": "developer-tools",
+      "name": "Developer Tools"
+    }
+  ],
+  "apps": [
+    {
+      "id": "portier",
+      "name": "Portier",
+      "subtitle": "macOS menu bar port monitor",
+      "description": "Real-time network port monitoring with smart categorization, process management, bilingual UI (TR/EN), and dark mode support.",
+      "longDescription": "Portier is a lightweight macOS menu bar app that monitors active network ports and processes in real-time. It categorizes processes into Development, Applications, Browsers, Infrastructure, and System groups. You can kill processes directly, open web-accessible ports in your browser, and filter by port number, process name, or category. Supports Turkish and English with dark mode.",
+      "category": ["developer-tools", "utilities"],
+      "platform": "macos",
+      "price": "free",
+      "github": "https://github.com/mesto-ai/portier",
+      "homepage": "https://github.com/mesto-ai/portier",
+      "language": "Swift",
+      "iconEmoji": "🚪",
+      "requirements": "macOS 13.0 (Ventura) or later, Swift 5.9+",
+      "installCommand": "swift build && .build/debug/PortMonitor",
+      "features": [
+        "Real-time port monitoring (auto-refresh every 5s)",
+        "Smart process categorization",
+        "Kill processes from menu bar",
+        "Search & filter by port, process, category",
+        "Quick browser access for web ports",
+        "Turkish & English language support",
+        "Dark mode"
+      ],
+      "screenshots": [
+        "https://github.com/mesto-ai/portier/raw/main/assets/portier.png"
+      ]
+    }
+  ]
+}
