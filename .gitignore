@@ -1,0 +1,41 @@
+# Build
+.build/
+Build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*~
+._*
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+
+# App bundle (build artifact)
+PortMonitor.app/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Screenshots (dev only)
+screenshot.png
