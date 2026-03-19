@@ -30,6 +30,7 @@
       "github": "https://github.com/mesto-ai/portier",
       "homepage": "https://github.com/mesto-ai/portier",
       "language": "Swift",
+      "icon": "https://github.com/mesto-ai/portier/raw/main/assets/AppIcon.png",
       "iconEmoji": "🚪",
       "requirements": "macOS 13.0 (Ventura) or later",
       "downloadUrl": "https://github.com/mesto-ai/portier/releases/latest/download/Portier-1.0.0.dmg",

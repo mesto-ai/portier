@@ -1,4 +1,8 @@
-# Portier
+<p align="center">
+  <img src="assets/AppIcon.png" alt="Portier App Icon" width="128" height="128">
+</p>
+
+# <p align="center">Portier</p>
 
 > macOS menu bar app that monitors active network ports and processes in real-time.
 
