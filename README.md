@@ -3,8 +3,16 @@
 > macOS menu bar app that monitors active network ports and processes in real-time.
 
 <p align="center">
+  <img src="assets/portier.png" alt="Portier Screenshot" width="400">
+</p>
+
+<p align="center">
   <strong>by <a href="https://github.com/mesto-ai">mesto.ai</a></strong>
 </p>
+
+## Demo
+
+<video src="https://github.com/mesto-ai/portier/raw/main/assets/portier.mp4" width="400" autoplay loop muted></video>
 
 ## Features
 
