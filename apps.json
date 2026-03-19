@@ -32,8 +32,8 @@
       "language": "Swift",
       "iconEmoji": "🚪",
       "requirements": "macOS 13.0 (Ventura) or later",
-      "downloadUrl": "https://github.com/mesto-ai/portier/releases/latest/download/Portier.dmg",
-      "installCommand": "brew install --cask mesto-ai/tap/portier || (curl -L -o Portier.dmg https://github.com/mesto-ai/portier/releases/latest/download/Portier.dmg && open Portier.dmg)",
+      "downloadUrl": "https://github.com/mesto-ai/portier/releases/latest/download/Portier-1.0.0.dmg",
+      "installCommand": "curl -L -o Portier.dmg https://github.com/mesto-ai/portier/releases/latest/download/Portier-1.0.0.dmg && open Portier.dmg",
       "features": [
         "Real-time port monitoring (auto-refresh every 5s)",
         "Smart process categorization",
