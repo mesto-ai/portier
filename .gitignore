@@ -29,6 +29,8 @@ Package.resolved
 
 # App bundle (build artifact)
 PortMonitor.app/
+Portier.app/
+*.dmg
 
 # IDE
 .vscode/
